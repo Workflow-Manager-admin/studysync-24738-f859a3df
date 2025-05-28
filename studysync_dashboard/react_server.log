@@ -115,3 +115,101 @@ export 'default' (imported as 'App') was not found in './App' (module has no exp
 
 webpack compiled with 2 errors and 1 warning
 Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:38:    'useCallback' is defined but never used         no-unused-vars
+  Line 22:10:   'daysUntil' is defined but never used           no-unused-vars
+  Line 27:10:   'daysCountdownColor' is defined but never used  no-unused-vars
+  Line 44:10:   'Auth' is defined but never used                no-unused-vars
+  Line 146:10:  'Navbar' is defined but never used              no-unused-vars
+
+ERROR in ./src/App.js 10:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/src'
+
+ERROR in ./src/index.js 11:33-36
+export 'default' (imported as 'App') was not found in './App' (module has no exports)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/src'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:38:    'useCallback' is defined but never used         no-unused-vars
+  Line 22:10:   'daysUntil' is defined but never used           no-unused-vars
+  Line 27:10:   'daysCountdownColor' is defined but never used  no-unused-vars
+  Line 44:10:   'Auth' is defined but never used                no-unused-vars
+  Line 146:10:  'Navbar' is defined but never used              no-unused-vars
+
+ERROR in ./src/App.js 10:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/src'
+
+ERROR in ./src/index.js 11:33-36
+export 'default' (imported as 'App') was not found in './App' (module has no exports)
+
+webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+WARNING in ./node_modules/@supabase/auth-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/auth-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/auth-js/src/index.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js.map'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/index.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:38:    'useCallback' is defined but never used         no-unused-vars
+  Line 22:10:   'daysUntil' is defined but never used           no-unused-vars
+  Line 27:10:   'daysCountdownColor' is defined but never used  no-unused-vars
+  Line 44:10:   'Auth' is defined but never used                no-unused-vars
+  Line 146:10:  'Navbar' is defined but never used              no-unused-vars
+
+ERROR in ./src/index.js 11:33-36
+export 'default' (imported as 'App') was not found in './App' (module has no exports)
+
+webpack compiled with 1 error and 4 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: './App' does not contain a default export (imported as 'App').
+WARNING in ./node_modules/@supabase/auth-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/auth-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/auth-js/src/index.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js.map'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard/node_modules/@supabase/supabase-js/dist/module/index.js.map'
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:38:    'useCallback' is defined but never used         no-unused-vars
+  Line 22:10:   'daysUntil' is defined but never used           no-unused-vars
+  Line 27:10:   'daysCountdownColor' is defined but never used  no-unused-vars
+  Line 44:10:   'Auth' is defined but never used                no-unused-vars
+  Line 146:10:  'Navbar' is defined but never used              no-unused-vars
+
+ERROR in ./src/index.js 11:33-36
+export 'default' (imported as 'App') was not found in './App' (module has no exports)
+
+webpack compiled with 1 error and 4 warnings
+Compiling...
