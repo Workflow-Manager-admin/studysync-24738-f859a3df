@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/studysync-24738-f859a3df/studysync_dashboard"
+}
